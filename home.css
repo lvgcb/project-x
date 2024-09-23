@@ -2,7 +2,7 @@ header {
     width: 100%;
     position: relative;
     height: 100vh;
-    background: url(//almatysite.kz/wp-content/themes/almaty23/img/landing-page.jpg) no-repeat;
+    background: url(WhatsApp Image 2024-09-24 at 00.30.41.jpeg) no-repeat;
     background-size: cover;
 }
 
@@ -12,9 +12,32 @@ header {
 }
 
 #me{
-    color = "white";
-  
+    
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    color : #ffffff;
 }
+
+#hobbies{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color : #ffffff;
+    
+}
+
+#text{
+        position: absolute;
+    top: 40%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 250%;
+    color: white;
+    
+}
+
 
 
 #frame {
